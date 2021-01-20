@@ -22,7 +22,7 @@ require('cypress-xpath')
 Project Structure:
 
 1. Created json file under fixture folder to store locators of the webelements
-2. Created spec.ts file to check the testcase under integration folder , imported the .ts file created the Page object to call methods which are defined in the .ts file.
+2. Created spec.ts file to check the testcase under integration folder , imported the .ts file to call methods which are defined in the .ts file.
 3. Created Page folder and added .ts file to define the methods and exported 
 
 
