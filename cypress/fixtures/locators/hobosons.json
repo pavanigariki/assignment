@@ -1,0 +1,11 @@
+{
+    "header":".banner-home__title",
+    "headerText":"Advancing Lifetime Student Success",
+    "intersectCard":"//div/div[2]/a[2]/div[1]/div[2]",
+    "mapHeader":".block-title__title",
+    "mapHeaderText":"The growing Naviance footprint",
+    "map":".block-stats-map__map",
+    "state":"g > g.active > g > path",
+    "popover":"//section[8]/div[1]/div"
+
+}
